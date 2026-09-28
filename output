@@ -1,0 +1,25 @@
+STACK DEMONSTRATION
+Adding:
+15
+25
+35
+45
+55
+Top item: 55
+Removing: 55
+Removing: 45
+New top: 35
+Is Stack empty? false
+
+QUEUE DEMONSTRATION
+Adding:
+15
+25
+35
+45
+55
+Front item: 15
+Removing: 15
+Removing: 25
+New front: 35
+Is Queue empty? false
